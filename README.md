@@ -1,4 +1,4 @@
-# Literature Review Backend (`litrev_backend.py`)
+# Literature Review agent
 
 Core backend logic for a **multi-agent literature-review assistant** powered by the [AutoGen AgentChat stack](https://microsoft.github.io/autogen) (⩾ v0.4).  
 This module coordinates a **two-agent team** to automatically search, filter, and summarize research papers from **arXiv** into a concise **Markdown-formatted literature review**.  
